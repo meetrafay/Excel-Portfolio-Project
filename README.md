@@ -37,9 +37,6 @@ The dataset consists of the following columns:
 17. **Top 5 Order IDs** with category-wise sales using **INDEX MATCH**  
 18. **Order distribution by sales range** using **COUNTIFS**  
 
-## 📷 Project Screenshots
-*(Add screenshots of your pivot tables, charts, or dashboards here.)*
-
 ## 💡 How to Use
 1. **Download** the Excel file from the repository.  
 2. **Open** it in Microsoft Excel or Google Sheets.  
